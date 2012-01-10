@@ -8,6 +8,7 @@ filter:
 
 <h1>TODO</h1>
 
+* Skim, possibly link up YouTube video of YUI Theater talk on Git (via <%= twitter_user('codertales') %>): http://www.youtube.com/watch?v=QB6r9Y7mqyU&feature=youtube_gdata_player
 * Continue section on rebase, adding a simple recipe, explaining --abort, and talking about interactive rebasing
   * also explaining why one would want to use it (hat tip to Cameron Thomas on the pdxruby list for this)
 * Cover push and pull
